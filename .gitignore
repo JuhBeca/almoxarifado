@@ -3,3 +3,4 @@ BackSRC/AlmoxarifadoSLN/.vs/AlmoxarifadoSLN/v17/.suo
 *.csproj
 *.user
 *.targets
+/BackSRC/AlmoxarifadoBackSLN/.vs
